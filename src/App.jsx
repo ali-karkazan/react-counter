@@ -5,7 +5,7 @@ function App(){
   return(
     <div>
       <p>Hello</p>
-    <MyComponent />
+    <Counter />
     </div>
   );
 }
